@@ -17,7 +17,7 @@ const char* ssid = "nama wifi";
 const char* password = "password";
 
 // pendefinisian key, akun, serta database untuk Firebase
-#define API_KEY "AIzaSyAMlLfPUpNv2RzYMbh_uDLGYZgf5DD3Yxw"
+#define API_KEY "api key"
 
 #define USER_EMAIL "irsannurhidayat@gmail.com"
 #define USER_PASSWORD "12345678"
